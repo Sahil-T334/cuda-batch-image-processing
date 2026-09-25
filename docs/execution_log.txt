@@ -1,0 +1,17 @@
+========================================================
+Enterprise CUDA Image Processing Engine (Fixed)
+Target Device      : NVIDIA GeForce RTX 4050 Laptop GPU
+Compute Capability : 8.9
+SM Count           : 20
+Global Memory (MB) : 6140
+========================================================
+Discovered 105 files in data\input\misc. Beginning execution...
+
+================ EXECUTION SUMMARY ================
+Successfully Processed : 105 images
+Total Wall Clock Time  : 2027.673 ms
+Cumulative Kernel Time : 40.126 ms
+Average Latency/Image  : 0.382 ms
+Effective Throughput   : 2616.79 FPS
+Artifacts Written To   : data\output/ and ./docs/
+====================================================
